@@ -8,7 +8,6 @@
 
 #### Recent news posts
 
-- [Hacktoberfest&#43;Owncast 2022](https://owncast.online/news/20220912-hacktoberfest_2022/)
 - [The Owncast Update](https://owncast.online/news/20220830-owncast-video-update-1/)
 - [Welcome to the Fediverse, Owncast streamers!](https://owncast.online/news/20220305-welcome-to-the-fediverse/)
 
