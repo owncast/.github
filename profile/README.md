@@ -2,9 +2,9 @@
 
 #### Latest releases
 
+- [Owncast v0.0.13](https://owncast.online/releases/owncast-0.0.13/)
 - [Owncast v0.0.12](https://owncast.online/releases/owncast-0.0.12/)
 - [Owncast v0.0.11](https://owncast.online/releases/owncast-0.0.11/)
-- [Owncast v0.0.10](https://owncast.online/releases/owncast-0.0.10/)
 
 #### Recent news posts
 
